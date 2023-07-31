@@ -30,9 +30,6 @@ environmentMap.colorSpace = THREE.SRGBColorSpace
 
 scene.background = environmentMap
 
-// Fog
-const fog = new THREE.Fog("#9797de", 1, 2)
-scene.fog = fog
 
 /**
  * Water
