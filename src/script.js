@@ -60,7 +60,7 @@ const waterMaterial = new THREE.ShaderMaterial({
         uColorOffset: { value: 0.1 },
         uColorMultiplier: { value: 3 },
 
-        uElevationMultiplier: { value: 3 },
+        uElevationMultiplier: { value: 1 },
         uSmallWavesElevation: { value: 0.15 },
         uSmallWavesSpeed: { value: 0.4 }
 
