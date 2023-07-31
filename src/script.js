@@ -38,7 +38,7 @@ scene.fog = fog
  * Water
  */
 // Geometry
-const waterGeometry = new THREE.PlaneGeometry(100, 100, 1024, 1024)
+const waterGeometry = new THREE.PlaneGeometry(100, 100, 2048, 2048)
 //const waterGeometry = new THREE.SphereGeometry(20,120,120)
 
 
