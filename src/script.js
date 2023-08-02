@@ -127,6 +127,7 @@ controls.enableDamping = true
 controls.minPolarAngle = 0
 controls.maxPolarAngle = Math.PI / 2.1
 controls.maxDistance = 7
+controls.minDistance = 1
 
 /**
  * Renderer
